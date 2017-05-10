@@ -2,5 +2,6 @@
   "name": "MeArm Blockly",
   "path": "mearm-blockly",
   "type": "static",
-  "category": "app"
+  "category": "app",
+  "description": "Control the MeArm Pi with Blockly"
 }
