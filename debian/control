@@ -1,0 +1,7 @@
+Source: headlesspi-mearm-blockly
+Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
+
+Package: headlesspi-mearm-blockly
+Architecture: armhf
+Description: A headlesspi app to control your MeArm Pi with Blockly in your browser
+Depends: headlesspi (>=0.1.2), mearm-js (>=0.0.7)
